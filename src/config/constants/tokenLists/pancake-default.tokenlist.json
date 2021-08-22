@@ -1,0 +1,103 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["1tronic", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "BIDR BEP20",
+      "symbol": "BIDR",
+      "address": "0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/BIDR-0E9_32.png"
+    },
+    {
+      "name": "WolfSafePoorPeople",
+      "symbol": "WSPP",
+      "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://bscscan.com/token/images/wolfsafepoor_32.png"
+    },
+    {
+      "name": "BUMooN",
+      "symbol": "BUMN",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://bscscan.com/token/images/bumoon_32.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "Metahero",
+      "symbol": "HERO",
+      "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/metahero_32.png?v=2"
+    },
+    {
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "name": "Artwork NFT",
+      "symbol": "ANFT",
+      "address": "0x4ad871d02415717f55adb23def23faec98e7bba8",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://bscscan.com/token/images/artworknft_32.png"
+    },
+    {
+      "name": "TokoCrypto",
+      "symbol": "TKO",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+    },
+    {
+      "name": "1 TRONIC NETWORK",
+      "symbol": "1TRC",
+      "address": "0x97300A4f628701672096460B5469C41a8d3ECb1A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17118/small/1tronic.png"
+    },
+    {
+      "name": "GoldenWolfSafePoorPeople",
+      "symbol": "GWSPP",
+      "address": "0xcccbf2248ef3bd8d475ea5de8cb06e19f4591a8e",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://bscscan.com/token/images/goldenwsppproject_32.png"
+    }
+
+  ]
+}
